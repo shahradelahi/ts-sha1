@@ -1,6 +1,6 @@
 {
   "name": "@se-oss/sha1",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Isomorphic SHA-1 hashing library for Node.js and browsers.",
   "keywords": [
     "sha1",
